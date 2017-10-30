@@ -1,2 +1,1 @@
-# wilks
-Wilks Calculator
+https://alexander183.github.io/wilks-web/
